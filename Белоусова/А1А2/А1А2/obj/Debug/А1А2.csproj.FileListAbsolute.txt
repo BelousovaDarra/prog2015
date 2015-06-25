@@ -1,0 +1,11 @@
+C:\Users\DNS\Desktop\программирование\Белоусова\А1А2\А1А2\bin\Debug\А1А2.exe.config
+C:\Users\DNS\Desktop\программирование\Белоусова\А1А2\А1А2\bin\Debug\А1А2.exe
+C:\Users\DNS\Desktop\программирование\Белоусова\А1А2\А1А2\bin\Debug\А1А2.pdb
+C:\Users\DNS\Desktop\программирование\Белоусова\А1А2\А1А2\obj\Debug\А1А2.csprojResolveAssemblyReference.cache
+C:\Users\DNS\Desktop\программирование\Белоусова\А1А2\А1А2\obj\Debug\А1А2.Form1.resources
+C:\Users\DNS\Desktop\программирование\Белоусова\А1А2\А1А2\obj\Debug\А1А2.Properties.Resources.resources
+C:\Users\DNS\Desktop\программирование\Белоусова\А1А2\А1А2\obj\Debug\А1А2.csproj.GenerateResource.Cache
+C:\Users\DNS\Desktop\программирование\Белоусова\А1А2\А1А2\obj\Debug\А1А2.exe
+C:\Users\DNS\Desktop\программирование\Белоусова\А1А2\А1А2\obj\Debug\А1А2.pdb
+C:\Users\DNS\Desktop\программирование\Белоусова\А1А2\А1А2\obj\Debug\А1А2.Employed.resources
+C:\Users\DNS\Desktop\программирование\Белоусова\А1А2\А1А2\obj\Debug\А1А2.NewForm.resources

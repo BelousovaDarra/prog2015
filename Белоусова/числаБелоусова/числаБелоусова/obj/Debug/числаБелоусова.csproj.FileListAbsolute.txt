@@ -1,0 +1,6 @@
+C:\Users\DNS\Desktop\программирование\числаБелоусова\числаБелоусова\bin\Debug\числаБелоусова.exe.config
+C:\Users\DNS\Desktop\программирование\числаБелоусова\числаБелоусова\bin\Debug\числаБелоусова.exe
+C:\Users\DNS\Desktop\программирование\числаБелоусова\числаБелоусова\bin\Debug\числаБелоусова.pdb
+C:\Users\DNS\Desktop\программирование\числаБелоусова\числаБелоусова\obj\Debug\числаБелоусова.csprojResolveAssemblyReference.cache
+C:\Users\DNS\Desktop\программирование\числаБелоусова\числаБелоусова\obj\Debug\числаБелоусова.exe
+C:\Users\DNS\Desktop\программирование\числаБелоусова\числаБелоусова\obj\Debug\числаБелоусова.pdb
