@@ -1,0 +1,45 @@
+c:\users\student\documents\visual studio 2013\Projects\D1\D1\bin\Debug\D1.exe.config
+c:\users\student\documents\visual studio 2013\Projects\D1\D1\obj\Debug\D1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\D1\D1\obj\Debug\D1.Properties.Resources.resources
+c:\users\student\documents\visual studio 2013\Projects\D1\D1\obj\Debug\D1.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2013\Projects\D1\D1\bin\Debug\D1.exe
+c:\users\student\documents\visual studio 2013\Projects\D1\D1\bin\Debug\D1.pdb
+c:\users\student\documents\visual studio 2013\Projects\D1\D1\obj\Debug\D1.exe
+c:\users\student\documents\visual studio 2013\Projects\D1\D1\obj\Debug\D1.pdb
+c:\users\student\documents\visual studio 2013\Projects\D1\D1\obj\Debug\D1.Form1.resources
+C:\Users\Фёдор\Desktop\D1\D1\bin\Debug\D1.exe.config
+C:\Users\Фёдор\Desktop\D1\D1\obj\Debug\D1.exe
+C:\Users\Фёдор\Desktop\D1\D1\obj\Debug\D1.pdb
+C:\Users\Фёдор\Desktop\D1\D1\bin\Debug\D1.exe
+C:\Users\Фёдор\Desktop\D1\D1\bin\Debug\D1.pdb
+C:\Users\Фёдор\Desktop\D1\D1\obj\Debug\D1.csprojResolveAssemblyReference.cache
+C:\Users\Фёдор\Desktop\D1\D1\obj\Debug\D1.Form1.resources
+C:\Users\Фёдор\Desktop\D1\D1\obj\Debug\D1.Properties.Resources.resources
+C:\Users\Фёдор\Desktop\D1\D1\obj\Debug\D1.csproj.GenerateResource.Cache
+C:\Users\DNS\Desktop\программирование\000посмотреть\Всё Д1\D1 второй\D1\bin\Debug\D1.exe.config
+C:\Users\DNS\Desktop\программирование\000посмотреть\Всё Д1\D1 второй\D1\obj\Debug\D1.exe
+C:\Users\DNS\Desktop\программирование\000посмотреть\Всё Д1\D1 второй\D1\obj\Debug\D1.pdb
+C:\Users\DNS\Desktop\программирование\000посмотреть\Всё Д1\D1 второй\D1\bin\Debug\D1.exe
+C:\Users\DNS\Desktop\программирование\000посмотреть\Всё Д1\D1 второй\D1\bin\Debug\D1.pdb
+C:\Users\DNS\Desktop\программирование\000посмотреть\Всё Д1\D1 второй\D1\obj\Debug\D1.csprojResolveAssemblyReference.cache
+C:\Users\DNS\Desktop\программирование\000посмотреть\Всё Д1\D1 второй\D1\obj\Debug\D1.Form1.resources
+C:\Users\DNS\Desktop\программирование\000посмотреть\Всё Д1\D1 второй\D1\obj\Debug\D1.Properties.Resources.resources
+C:\Users\DNS\Desktop\программирование\000посмотреть\Всё Д1\D1 второй\D1\obj\Debug\D1.csproj.GenerateResource.Cache
+C:\Users\DNS\Desktop\программирование\Белоусова\D1 второй\D1\bin\Debug\D1.exe.config
+C:\Users\DNS\Desktop\программирование\Белоусова\D1 второй\D1\obj\Debug\D1.exe
+C:\Users\DNS\Desktop\программирование\Белоусова\D1 второй\D1\obj\Debug\D1.pdb
+C:\Users\DNS\Desktop\программирование\Белоусова\D1 второй\D1\bin\Debug\D1.exe
+C:\Users\DNS\Desktop\программирование\Белоусова\D1 второй\D1\bin\Debug\D1.pdb
+C:\Users\DNS\Desktop\программирование\Белоусова\D1 второй\D1\obj\Debug\D1.csprojResolveAssemblyReference.cache
+C:\Users\DNS\Desktop\программирование\Белоусова\D1 второй\D1\obj\Debug\D1.Form1.resources
+C:\Users\DNS\Desktop\программирование\Белоусова\D1 второй\D1\obj\Debug\D1.Properties.Resources.resources
+C:\Users\DNS\Desktop\программирование\Белоусова\D1 второй\D1\obj\Debug\D1.csproj.GenerateResource.Cache
+C:\Users\DNS\Desktop\программирование\Белоусова\D1\D1\bin\Debug\D1.exe.config
+C:\Users\DNS\Desktop\программирование\Белоусова\D1\D1\obj\Debug\D1.exe
+C:\Users\DNS\Desktop\программирование\Белоусова\D1\D1\obj\Debug\D1.pdb
+C:\Users\DNS\Desktop\программирование\Белоусова\D1\D1\bin\Debug\D1.exe
+C:\Users\DNS\Desktop\программирование\Белоусова\D1\D1\bin\Debug\D1.pdb
+C:\Users\DNS\Desktop\программирование\Белоусова\D1\D1\obj\Debug\D1.csprojResolveAssemblyReference.cache
+C:\Users\DNS\Desktop\программирование\Белоусова\D1\D1\obj\Debug\D1.Form1.resources
+C:\Users\DNS\Desktop\программирование\Белоусова\D1\D1\obj\Debug\D1.Properties.Resources.resources
+C:\Users\DNS\Desktop\программирование\Белоусова\D1\D1\obj\Debug\D1.csproj.GenerateResource.Cache
